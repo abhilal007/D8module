@@ -1,0 +1,6 @@
+alb_page:
+ pattern: '/alb'
+ defaults:
+  _content: 'Drupal\alb\Controller\albController::albPage'
+ requirements:
+  _permission: 'view content' 

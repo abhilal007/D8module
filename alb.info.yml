@@ -1,0 +1,7 @@
+name: alb
+description: A simple hello world module
+core: 8.x
+dependencies:
+- node
+- block
+type: module
